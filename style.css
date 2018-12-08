@@ -524,6 +524,7 @@ p {
 
 .wellcome-heading > p {
     color: #000;
+    max-width: 525px;
 }
 
 .wellcome-heading > h3 {
