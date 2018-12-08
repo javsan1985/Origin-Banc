@@ -355,7 +355,7 @@ p {
 }
 
 .menu_area #nav .nav-link {
-    color: #69859d;
+    color: #af6495;
     display: block;
     font-size: 16px;
     font-weight: 500;
@@ -429,7 +429,7 @@ p {
     height: 600px;
     position: relative;
     z-index: 1;
-    background-position: bottom center;
+    background-position: top center;
     background-size: cover;
 }
 
@@ -523,7 +523,7 @@ p {
 }
 
 .wellcome-heading > p {
-    color: #000;
+    color: #7a7a7a;
     max-width: 525px;
 }
 
@@ -601,7 +601,7 @@ p {
     display: flex;
     -ms-flex-preferred-size: 1;
     flex-basis: 1;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .app-download-btn a {
