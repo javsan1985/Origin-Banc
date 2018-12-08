@@ -75,7 +75,7 @@
     }
     .section-heading > h2 {
         font-size: 38px;
-        
+
     }
     .address-text > p,
     .phone-text > p,
@@ -151,7 +151,7 @@
     }
     .welcome-thumb {
         width: 90%;
-        bottom: -74px;
+        bottom: -160px;
         right: 0;
     }
     .logo_area > a > h2 {
