@@ -1,0 +1,48 @@
+Searching 3 files for "navbar-brand"
+
+/Users/javi/Downloads/Origin Banc/css/responsive.css:
+    1  @media (min-width: 992px) and (max-width: 1199px) {
+    2:     .menu_area .navbar-brand {
+    3          width: 42px;
+    4      }
+    .
+   33          padding: 0;
+   34      }
+   35:     .menu_area .navbar-brand {
+   36          width: 48px;
+   37      }
+   ..
+  115          padding: 0;
+  116      }
+  117:     .menu_area .navbar-brand {
+  118          width: 48px;
+  119      }
+
+/Users/javi/Downloads/Origin Banc/index.html:
+   39                          <nav class="navbar navbar-expand-lg navbar-light">
+   40                              <!-- Logo -->
+   41:                             <img class="navbar-brand" src="img/originlogocuadrado.png">
+   42                              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ca-navbar" aria-controls="ca-navbar" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+   43                              <!-- Menu Area -->
+
+/Users/javi/Downloads/Origin Banc/style.css:
+  333  }
+  334  
+  335: .menu_area .navbar-brand {
+  336      width: 72px;
+  337      font-weight: 700;
+  ...
+  343  
+  344  
+  345: .menu_area .navbar-brand:hover,
+  346: .menu_area .navbar-brand:focus {
+  347      color: #fff;
+  348  }
+  ...
+  408  }
+  409  
+  410: .header_area.sticky .menu_area .navbar-brand {
+  411      width: 50px;
+  412  }
+
+8 matches across 3 files
