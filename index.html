@@ -659,10 +659,9 @@
     <script src="js/active.js"></script>
     <script>
         function sendEvent(category, label) {
-            ga('send', 'event', {
-                eventCategory: category,
-                eventAction: 'click',
-                eventLabel: label
+            gtag('event', 'click' {
+                event_category: category,
+                event_label: label
             });
         }
     </script>
